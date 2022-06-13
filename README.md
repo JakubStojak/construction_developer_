@@ -8,5 +8,3 @@ What to do ?
 5. Something like 'database file', i. e. csv for saving data to ?
 6. Creating endpoints to manage buildings information
 
-# Homework
-1. Test dict() 
