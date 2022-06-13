@@ -1,0 +1,6 @@
+fastapi~=0.70.0
+python-multipart
+pytest~=6.2.5
+uvicorn~=0.15.0
+
+delete~=0.3.0
